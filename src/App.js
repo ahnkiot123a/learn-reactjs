@@ -9,7 +9,6 @@ function App() {
         <p>
           oOKiTo
         </p>
-
       </header>
     </div>
   );
